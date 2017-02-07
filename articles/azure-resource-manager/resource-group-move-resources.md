@@ -71,6 +71,7 @@ Call support when you need to:
 For now, the services that enable moving to both a new resource group and subscription are:
 
 * API Management
+* Application Insights
 * App Service apps (web apps) - see [App Service limitations](#app-service-limitations)
 * Automation
 * Batch
@@ -123,7 +124,6 @@ The services that currently do not enable moving a resource are:
 
 * AD Hybrid Health Service
 * Application Gateway
-* Application Insights
 * BizTalk Services
 * Express Route
 * DevTest Labs - Move to new resource group in same subscription is enabled, but cross subscription move is not enabled.
